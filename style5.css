@@ -1,0 +1,11 @@
+body {
+    height: 200px;
+    background: rgb(219, 219, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bodyoscuro {
+    background: rgb(61, 61, 61);
+}
